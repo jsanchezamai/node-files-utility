@@ -7,7 +7,8 @@
     "dev": "npm run build && ts-node-dev src/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npm run dev",
-    "cortadora": "npm run build && ts-node-dev src/cortadora/cortar"
+    "cortadora": "npm run build && ts-node-dev src/cortadora/cortar",
+    "lichesseadora": "npm run build && ts-node-dev src/lichesseadora/lichessear"
   },
   "author": "Martín Santomé on behalf of Ox Santomé",
   "license": "MIT",
