@@ -1,0 +1,14 @@
+[Event "?"]
+[Site "?"]
+[Date "2013.10.19"]
+[Round "?"]
+[White "F13."]
+[Black "Torre contra Alfil"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "8/8/8/8/5k1p/8/r5BP/6K1 w - - 0 0"]
+[PlyCount "0"]
+
+{F13. Fortaleza falsa  Las negras pueden forzar el avance de uno de los peones
+a h3 y ganan.}  0-1
+
